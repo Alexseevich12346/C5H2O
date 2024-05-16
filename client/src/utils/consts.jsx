@@ -1,0 +1,7 @@
+export const ShopRoute = '/shop'
+export const HomeRoute = '/'
+export const RegisterRoute = '/register'
+export const AuthRoute = '/authentication'
+export const NewsRoute = '/news' 
+export const CourseRoute = '/course'
+export const ContactRoute = '/contact'
